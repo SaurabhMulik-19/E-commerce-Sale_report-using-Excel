@@ -14,7 +14,7 @@ The dashboard provides key insights for decision-making in business strategy.
 ## 📊 Key Insights
 - **Total Revenue:** 3,520,984  
 - **Total Orders:** 1000  
-- **Avg. Order Value:** 100  
+- **Avg. Order Value:** 3520.984  
 - **Customer Repetition:** 100%  
 - **Top Revenue City:** Imphal  
 - **Top Category:** Colors  
